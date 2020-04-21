@@ -10,4 +10,4 @@ Making a remote change
 
 New change: this time I am Dracula
 
-New change: I am Wolfman
+New change: I am Wolfman (Is a Wolfman a Man+Wolf or a Wolf+Man?)
