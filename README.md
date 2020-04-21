@@ -1,6 +1,6 @@
 # My Toy Repository
 
-Author: Pratik Gandhi
+Author: Pratik Gandhi (Email: pjgandhi@ucdavis.edu)
 
 This code prints hello world to the terminal. Super straightforward!!! :)
 
