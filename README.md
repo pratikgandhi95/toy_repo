@@ -9,3 +9,5 @@ Adding a line for my remote repo
 Making a remote change
 
 New change: this time I am Dracula
+
+New change: I am Wolfman
