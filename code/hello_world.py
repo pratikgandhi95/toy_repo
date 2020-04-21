@@ -1,1 +1,2 @@
-print("hello world, I am Wolfman")
+# shows output on screen saying "hello world"
+print("hello world")
